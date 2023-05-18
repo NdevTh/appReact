@@ -1,0 +1,7 @@
+I. Introduction : Le cahier des charges définit les besoins et les fonctionnalités d'une application mobile de gestion de stockage. L'objectif principal de l'application est de permettre à l'utilisateur de prendre des photos de ses produits pour mieux les identifier et les ranger.
+II. Objectifs de l'application : Les objectifs de l'application sont les suivants :
+• Gérer ses stocks de manière simple et intuitive : l'application doit offrir une gestion de stocks facile et conviviale, permettant à l'utilisateur de suivre ses stocks de manière efficace.
+• Prendre des photos des produits à stocker et les ajouter à une base de données : l'application doit permettre à l'utilisateur de prendre des photos des produits qu'il souhaite stocker et de les ajouter à une base de données.
+• Identifier et rechercher des produits en utilisant la photo ou le nom du produit : l'application doit offrir une fonction de recherche basée sur la photo ou le nom du produit pour permettre à l'utilisateur de trouver rapidement un produit spécifique.
+• Visualiser les niveaux de stocks et les dates d'expiration des produits : l'application doit afficher les niveaux de stock actuels et les dates d'expiration des produits pour permettre à l'utilisateur de suivre facilement l'état de ses stocks.
+• Recevoir des alertes pour les produits qui sont en rupture de stock ou en fin de vie : l'application doit envoyer des alertes à l'utilisateur lorsque les produits sont en rupture de stock ou en fin de vie.
