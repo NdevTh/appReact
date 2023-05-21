@@ -5,10 +5,10 @@ const Stack = createNativeStackNavigator();
 import { Provider } from 'react-redux';
 import HomeScreen from './screens/HomeScreen';
 import Store from './store/configStore';
-// import LoginScreen from './screens/LoginScreen';
-// import RegisterScreen from "./screens/RegisterScreen";
-// import ForgotPasswordScreen from './screens/ForgotPasswordScreen'
-// import Dashboard from "./screens/Dashboard";
+import LoginScreen from './screens/LoginScreen';
+import RegisterScreen from "./screens/RegisterScreen";
+import ForgotPasswordScreen from './screens/ForgotPasswordScreen'
+import Dashboard from "./screens/Dashboard";
 
 
 const App = () => {
