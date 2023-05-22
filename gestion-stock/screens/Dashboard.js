@@ -12,7 +12,7 @@ export default class Dashboard extends React.Component{
                 <View>
                     <Header title="Vous etes connecté"/>
                     <Paragraph>
-                        Bienvenu {this.props.route.params.username} sur notre application d'inscription connexion
+                        Bienvenu {this.props.route.params.username} sur notre application de gestion de stock
                     </Paragraph>
                     <Button onPress={() => this.props.navigation.navigate('Homescreen')} title="Déconnexion"/>
                 </View>
