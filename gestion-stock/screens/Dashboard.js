@@ -14,8 +14,12 @@ export default class Dashboard extends React.Component{
                     <Paragraph>
                         Bienvenu {this.props.route.params.username} sur notre application de gestion de stock
                     </Paragraph>
+                    <Paragraph>
+                        Bienvenu {this.props.route.params.username} sur notre application de gestion de stock
+                    </Paragraph>
+                    
                     <Button onPress={() => this.props.navigation.navigate('Homescreen')} title="Déconnexion"/>
                 </View>
             );
     }
-};
+};æ
