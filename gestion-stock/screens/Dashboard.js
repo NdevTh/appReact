@@ -17,10 +17,12 @@ export default class Dashboard extends React.Component{
                     <Paragraph>
 Ici ça serait l'application cameras
                     </Paragraph>
-                    <h2></h2>
+                    <h2>
+                        je teste de nouveau
+                    </h2>
                     
                     <Button onPress={() => this.props.navigation.navigate('Homescreen')} title="Déconnexion"/>
                 </View>
             );
     }
-};æ
+}
