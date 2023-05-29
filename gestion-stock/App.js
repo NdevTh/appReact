@@ -10,7 +10,6 @@ import RegisterScreen from "./screens/RegisterScreen";
 import ForgotPasswordScreen from './screens/ForgotPasswordScreen'
 import Dashboard from "./screens/Dashboard";
 
-
 const App = () => {
   return (
       <Provider store={Store}>
