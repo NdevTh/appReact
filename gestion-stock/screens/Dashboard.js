@@ -15,7 +15,7 @@ export default class Dashboard extends React.Component{
                         Bienvenu {this.props.route.params.username} sur notre application de gestion de stock
                     </Paragraph>
                     <Paragraph>
-                        Bienvenu {this.props.route.params.username} sur notre application de gestion de stock
+                        Bienvenu {this.props.route.params.username} je ne sais pas comment faire ? 
                     </Paragraph>
                     
                     <Button onPress={() => this.props.navigation.navigate('Homescreen')} title="Déconnexion"/>
