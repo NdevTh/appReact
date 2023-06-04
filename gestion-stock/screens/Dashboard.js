@@ -18,7 +18,7 @@ export default class Dashboard extends React.Component{
 Ici ça serait l'application cameras
                     </Paragraph>
                     <h2>
-                        je teste de nouveau
+                        je teste
                     </h2>
                     
                     <Button onPress={() => this.props.navigation.navigate('Homescreen')} title="Déconnexion"/>
